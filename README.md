@@ -83,15 +83,6 @@ print [Hello, world!]
 disp('Hello, world!')
 ```
 
-# Objective-C
-```objective c
-.....
-int main(void)
-{
-    NSLog(@"Hello, world!");
-    return 0;
-}
-```
 # Pascal
 ```pascal
 program HelloWorld;
