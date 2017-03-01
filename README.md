@@ -62,7 +62,7 @@ public class HelloWorld {
 }
 ``` 
 # JavaScript
-```
+```javascript
 document.write('Hello, world!');
  ```
 # jQuery
