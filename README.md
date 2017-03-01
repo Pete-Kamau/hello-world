@@ -1,30 +1,26 @@
-1.
-
-2. Bash
+# Bash
 echo "Hello World"
 
-3. Basic
-PRINT "Hello, world!"​
+# Basic
+PRINT "Hello, world!"
  
-4. C
-#include 
- 
+# C
+......
 int main(void)
 {
     puts("Hello, world!");
 }
  
-5. C++
-#include 
- 
+# C++
+.....
+using namespace std;
 int main()
 {
-    std::cout << "Hello, world!
-";
+    cout << "Hello World";
     return 0;
 }
  
-6. C#
+# C#
 using System;
 class Program
 {
@@ -34,25 +30,20 @@ class Program
     }
 }
  
-7. Clipper
+# Clipper
 ? "Hello World"
  
-8. CoffeeScript
+# CoffeeScript
 console.log 'Hello, world!'
  
-9. Delphi
-program HelloWorld;
-begin
-  Writeln('Hello, world!');
-end.
  
-10. HTML
+# HTML
 
  Hello World!
  
-11. Java
-import javax.swing.JFrame;  //Importing class JFrame
-import javax.swing.JLabel;  //Importing class JLabel
+# Java
+import javax.swing.JFrame;  
+import javax.swing.JLabel;  
 public class HelloWorld {
     public static void main(String[] args) {
         JFrame frame = new JFrame();           //Creating frame
@@ -64,68 +55,54 @@ public class HelloWorld {
     }
 }
  
-12. JavaScript
+# JavaScript
 document.write('Hello, world!');
  
-13. jQuery
+# jQuery
 $("body").append("Hello world!");
  
-14. Julia
+# Julia
 println("Hello world!")
  
-15. Logo
+# Logo
 print [Hello, world!]
  
-16. MatLab
+#. MatLab
 disp('Hello, world!')
  
-17. Objective-C
-#import 
-#import 
- 
+# Objective-C
+.....
 int main(void)
 {
-    NSLog(@"Hello, world!
-");
+    NSLog(@"Hello, world!");
     return 0;
 }
  
-18. Pascal
+# Pascal
 program HelloWorld;
 begin
   WriteLn('Hello, world!');
 end.
  
-19. Perl 5
-print "Hello, world!
-";
- 
-20. PHP
+# Perl 5
+print "Hello, world!";
 
- 
- 
-21. Processing
-void setup(){
-  println("Hello, world!");
-}
- 
-22. Python
+# Python
 print "Hello, world!"
  
-23. R
-cat('Hello, world!
-')
+# R
+cat('Hello, world!')
  
-24. Ruby
+# Ruby
 puts "Hello, world!"
  
-25. Swift
+# Swift
 println("Hello, world!")
  
-26. VBScript
+# VBScript
 MsgBox "Hello, World!"
  
-27. Visual Basic .NET
+# Visual Basic .NET
 Module Module1
     Sub Main()
         Console.WriteLine("Hello, world!")
