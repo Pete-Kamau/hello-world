@@ -1,11 +1,15 @@
 # Bash
-`echo "Hello World"`
+```basg
+echo "Hello World"
+```
 
 # Basic
-`PRINT "Hello, world!"`
+```basic
+PRINT "Hello, world!"
+```
  
 # C
-```
+```c
 ......
 int main(void)
 {
@@ -13,7 +17,7 @@ int main(void)
 }
 ```
 # C++
-```
+```c++
 .....
 using namespace std;
 int main()
@@ -23,7 +27,7 @@ int main()
 }
 ```
 # C#
-```
+```c#
 using System;
 class Program
 {
@@ -34,20 +38,20 @@ class Program
 }
 ```
 # Clipper
-```
+```clipper
 ? "Hello World"
  ```
 # CoffeeScript
-```
+```coffeescript
 console.log 'Hello, world!'
  ```
  
 # HTML
-```
+```html
  Hello World!
 ```
 # Java
-```
+```java
 import javax.swing.JFrame;  
 import javax.swing.JLabel;  
 public class HelloWorld {
@@ -66,21 +70,21 @@ public class HelloWorld {
 document.write('Hello, world!');
  ```
 # jQuery
-```
+```jquery
 $("body").append("Hello world!");
  ```
  
 # Logo
-```
+```logo
 print [Hello, world!]
 ```
 # MatLab
-```
+```matlab
 disp('Hello, world!')
 ```
 
 # Objective-C
-```
+```objective c
 .....
 int main(void)
 {
@@ -89,38 +93,38 @@ int main(void)
 }
 ```
 # Pascal
-```
+```pascal
 program HelloWorld;
 begin
   WriteLn('Hello, world!');
 end.
 ```
 # Perl 5
-```
+```perl
 print "Hello, world!";
 ```
 # Python
-```
+```python
 print "Hello, world!"
 ```
 # R
-```
+```r
 cat('Hello, world!')
 ```
 # Ruby
-```
+```ruby
 puts "Hello, world!"
 ```
 # Swift
-```
+```swift
 println("Hello, world!")
 ```
 # VBScript
-```
+```vbscript
 MsgBox "Hello, World!"
 ``` 
 # Visual Basic .NET
-```
+```.net
 Module Module1
     Sub Main()
         Console.WriteLine("Hello, world!")
