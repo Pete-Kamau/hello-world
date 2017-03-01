@@ -1,5 +1,5 @@
 # Bash
-echo "Hello World"
+`echo "Hello World"`
 
 # Basic
 PRINT "Hello, world!"
